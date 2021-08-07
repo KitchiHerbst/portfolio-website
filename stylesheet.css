@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-color: #086788;
+  font-family: 'Gowun Batang', serif;;
 }
 
 section {
@@ -21,21 +22,22 @@ ul {
     padding: 0;
 }
 
-.main-div {
-    display: flex;
+li {
+    text-decoration: none;
 }
 
-#img-container{
+.main-div {
+    display: flex;
+    height: 88vh;
+    justify-content: center;
+    align-items: center;
+
     
-    height: 250px;
-    width: 250px;
-    overflow: hidden;
-    border-radius: 50%;
 }
 
 #main-img {
-    
-    
+    border-radius: 50%;
+    max-height: 400px;
 }
 
 footer {
