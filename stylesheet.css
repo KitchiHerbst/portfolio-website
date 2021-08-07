@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background-color: #086788;
+}
+
+section {
+  height: 500px;
+  border: solid black 1px;
+}
+
+.main {
+  height: 100vh;
+  color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.main-div {
+    display: flex;
+}
+
+#img-container{
+    
+    height: 250px;
+    width: 250px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+#main-img {
+    
+    
+}
+
+footer {
+    height: 150px;
+}
