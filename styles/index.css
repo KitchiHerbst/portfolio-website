@@ -9,7 +9,7 @@ body {
 
 section {
   
-  border: solid black 1px;
+  /* border: solid black 1px; */
 }
 
 footer {
@@ -28,7 +28,7 @@ footer {
 
   section {
     height: 500px;
-    border: solid black 1px;
+    /* border: solid black 1px; */
   }
 
   footer {

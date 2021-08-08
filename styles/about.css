@@ -1,0 +1,11 @@
+@media only screen and (max-width: 767px) {
+    .about {
+        margin: 0;
+    }
+
+    .about p{
+        margin-top: 0;
+        padding: 0 10px 0 15px;
+        color: white;
+    }
+  }
