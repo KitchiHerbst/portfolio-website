@@ -1,6 +1,7 @@
 @media only screen and (max-width: 767px) {
   .about {
     margin: 0;
+    margin-bottom: 40px;
   }
 
   .about p {
