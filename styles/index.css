@@ -30,6 +30,7 @@ body {
 
 footer {
   height: 150px;
+
 }
 
 .break h2{
@@ -41,4 +42,14 @@ footer {
 hr {
   width: 92vw;
   margin-bottom: 20px;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 50px;
+}
+
+.icons img {
+  height: 64px;
 }

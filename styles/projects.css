@@ -1,5 +1,7 @@
 @media only screen and (max-width: 767px) {
-  
+  .section-projects {
+      margin-bottom: 40px;
+  }
 
   .project {
     color: white;

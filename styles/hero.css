@@ -39,7 +39,7 @@
   .main-div p {
     font-size: 30px;
     margin-top: 0;
-    padding-left: 10px;
+    /* padding-left: 10px; */
   }
 
   #main-img {
