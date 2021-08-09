@@ -48,6 +48,7 @@
   }
 }
 
+/* smaller screen size */
 @media only screen and (max-width: 767px) {
   .main {
     height: 98vh;
@@ -85,7 +86,7 @@
 
   #main-img {
     border-radius: 50%;
-    width: 100%;
+    width: 365px;
     max-height: 400px;
   }
 }
